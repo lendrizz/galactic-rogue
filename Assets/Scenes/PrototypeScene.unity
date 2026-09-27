@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Main Camera
+  m_TagString: MainCamera
+  m_Layer: 0
+  m_IsActive: 1
+--- !u!4 &2
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!20 &3
+Camera:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 1
+  m_BackGroundColor: {x: 0.015, y: 0.025, z: 0.07, a: 1}
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.1
+  far clip plane: 1000
+  field of view: 60
+  orthographic: 1
+  orthographic size: 5
+  m_Depth: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 3
+  m_HDR: 1
+  m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRenderTexture: 0
+  m_ReplaceWith: 0
+  m_ForceIntoRenderTexture: 0
+  m_Upscaling: 0
+  m_LowQualityUpscaling: 0
+  m_LowMidQualityUpscaling: 0
+  m_HighQualityUpscaling: 0
+  m_HighQualityUpscaling: 0
+  m_FinalColorBlendingMode: 0
+  m_FoveationArea: {x: 0, y: 0}
+  m_NearClipPlane: 0.1
+  m_FarClipPlane: 1000
+  m_FieldOfView: 60
+  m_OrthographicSize: 5
+  m_Depth: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: -1
+  m_RenderingLayerMask: 1
+  m_PreferredRenderingPath: -1
+  m_ActiveInputHandle: 0
+  m_ActiveControlSchemeName: 
+  m_DeltaTime: 0
+  m_ChannelsMask: 0
+  m_RenderSettings:
+    m_AmbientSkyColor: {x: 0.212, y: 0.227, z: 0.259, a: 1}
+    m_AmbientEquatorColor: {x: 0.114, y: 0.125, z: 0.133, a: 1}
+    m_AmbientGroundColor: {x: 0.047, y: 0.043, z: 0.035, a: 1}
+    m_AmbientIntensity: 1
+    m_SkyboxMaterial: {fileID: 0}
+    m_Fog: 0
+    m_FogMode: 3
+    m_FogDensity: 0.01
+    m_LinearFogStart: 0
+    m_LinearFogEnd: 300
+    m_AmbientMode: 3
+    m_SubtractiveShadowColor: {x: 0.42, y: 0.478, z: 0.627, a: 1}
+    m_Shadowmask: 0
+    m_SoftShadowQuality: 0
+EOF

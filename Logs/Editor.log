@@ -1,0 +1,637 @@
+Unity Editor version:    6000.6.0f1 (f7f8ed4d1e24)
+Branch:                  6000.6/respin/6000.6.0f1-fa21a270ab12
+Build type:              Release
+Batch mode:              NO
+macOS version:           Version 15.6.1 (Build 24G90)
+Darwin version:          24.6.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Date:                    2026-09-27T03:30:52Z
+VBCSCompilerPreWarmer: pre-warm launched (dotnet PID 70118)
+VBCSCompiler prewarm took 13.72 ms
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-robinlenson" at "2026-09-27T03:30:52.14869Z"
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/MacOS/Unity
+-projectpath
+/Users/robinlenson/Galactic Rogue
+-acceptSoftwareTermsForThisRunOnly
+-useHub
+-hubIPC
+-cloudEnvironment
+production
+-licensingIpc
+LicenseClient-robinlenson
+-hubSessionId
+544cc843-8e3a-4d54-99db-198af6fb9b4b
+-accessToken
+uT0LLquOOItEpQn2_Df-Pgleg3_D55BavMcJDxiTdBk008f
+Successfully changed project path to: /Users/robinlenson/Galactic Rogue
+/Users/robinlenson/Galactic Rogue
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              cd6127a5f61d4bc28fb5d1713eecb594
+  Correlation Id:          924d771c6ae1d44b8a4c4ee327441753
+  External correlation Id: 6536845647372754800
+  Machine Id:              ZLsL3jkNcUrrEsyqEuMeatkyD3c=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-robinlenson" (connect: 0.00s, validation: 0.00s, handshake: 0.62s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-robinlenson-notifications" at "2026-09-27T03:30:52.775988Z"
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated the access token uT0LLquOOI...
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 9072449454136-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.00
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.63s
+Player connection [8404820160]  Target information:
+
+Player connection [8404820160]  * "[IP] 192.168.0.7 [Port] 55504 [Flags] 2 [Guid] 1259049766 [EditorId] 1259049766 [Version] 1048832 [Id] OSXEditor(0,MacBookAir) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8404820160] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8404820160] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Package Manager] Connected to IPC stream "Upm-70115" after 0.2 seconds.
+[Licensing::Client] Successfully resolved entitlement details
+Library Redirect Path: Library/
+Initialising UDS system complete:
+  - System type: Client
+  - Resource namespace: a253aa11f41ccedbf6bfac8b0320d702
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052672
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+  - Service connected: false
+Launching Unity Data Store - /Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Helpers/Unity.DataStore 
+Unity Data Store artifact dir = Library/DataStore, working dir = /Users/robinlenson/Galactic Rogue[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Unity Data Store running and initialised
+Initialize engine version: 6000.6.0f1 (f7f8ed4d1e24)
+[EntityIdStore] init: VM path (explicit commit), pageSize=16384, blockCount=262144, entitiesPerBlock=1024, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/robinlenson/Galactic Rogue/Assets
+GfxDevice: creating device client; kGfxThreadingModeThreaded
+ preferred device: Apple M1 (high power)
+Metal devices available: 1
+0: Apple M1 (high power)
+Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Mac GPU Family: 2
+Apple GPU Family: 7
+MSL Version: 3.0
+Has Float MSAA: 1
+Has Float Filtering: 1
+ReadWrite Texture Tier: 2
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/Scripting/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/Scripting/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = '/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56115
+CodeReloadManager initialized
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/6000.6.0f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/6000.6.0f1/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001649 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  1.022 seconds
+Domain Reload Profiling: 1496ms
+	BeginReloadAssembly (115ms)
+		CreateAndSetChildDomain (6ms)
+	RebuildCommonClasses (4ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (52ms)
+	LoadAllAssembliesAndSetupDomain (282ms)
+		LoadAssemblies (109ms)
+		TypeCache.Refresh (203ms)
+			TypeCache.ScanAssembly (186ms)
+		AnalyzeDomain (1ms)
+	FinalizeReload (1023ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			BeforeProcessingInitializeOnLoad (79ms)
+			ProcessInitializeOnLoadAttributes (85ms)
+			ProcessInitializeOnLoadMethodAttributes (687ms)
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 72 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.2d.animation@16.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.2d.animation@147f6a6d9e7f)
+    com.unity.2d.aseprite@6.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.2d.aseprite@ab909e3e9b5f)
+    com.unity.2d.psdimporter@15.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.2d.psdimporter@3ef8178676f6)
+    com.unity.2d.spriteshape@16.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.2d.spriteshape@42798c9d35d3)
+    com.unity.2d.tilemap.extras@9.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.2d.tilemap.extras@598e8b65eaae)
+    com.unity.2d.tooling@4.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.2d.tooling@92c2769ac09c)
+    com.unity.collab-proxy@2.13.6 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4)
+    com.unity.ide.rider@3.0.38 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.ide.rider@1f60b3138684)
+    com.unity.ide.visualstudio@2.0.26 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.ide.visualstudio@a99d56dec63f)
+    com.unity.inputsystem@1.20.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.inputsystem@7a4e1a2a8194)
+    com.unity.learn.iet-framework@6.0.7 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.learn.iet-framework@96330db47073)
+    com.unity.visualscripting@1.9.12 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.visualscripting@4edfcc09512f)
+    com.unity.settings-manager@2.1.1 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.settings-manager@0b8638c5ce86)
+    com.unity.2d.common@15.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.2d.common@b779c433ed47)
+    com.unity.searcher@4.9.5 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.searcher@a463122f2c00)
+    com.unity.profiling.core@1.0.3 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.profiling.core@8a49f7027d06)
+    com.unity.nuget.mono-cecil@1.11.6 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff)
+  Built-in packages:
+    com.unity.2d.sprite@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.2d.sprite@947350d67f82)
+    com.unity.2d.tilemap@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.2d.tilemap@639ca1d99254)
+    com.unity.multiplayer.center@2.0.1 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.multiplayer.center@549886182930)
+    com.unity.render-pipelines.universal@17.6.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.render-pipelines.universal@8457e85b8184)
+    com.unity.test-framework@1.8.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.test-framework@7a3849e09bd0)
+    com.unity.timeline@6.6.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.timeline@281d5f7e7d7d)
+    com.unity.ugui@2.6.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.ugui@23caec89ae27)
+    com.unity.modules.accessibility@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.accessibility)
+    com.unity.modules.adaptiveperformance@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.adaptiveperformance)
+    com.unity.modules.ai@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.ai)
+    com.unity.modules.androidjni@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.androidjni)
+    com.unity.modules.animation@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.audio)
+    com.unity.modules.cloth@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.cloth)
+    com.unity.modules.director@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.director)
+    com.unity.modules.imageconversion@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.imgui)
+    com.unity.modules.jsonserialize@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.jsonserialize)
+    com.unity.modules.particlesystem@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.physics)
+    com.unity.modules.physics2d@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.physics2d)
+    com.unity.modules.physicscore2d@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.physicscore2d)
+    com.unity.modules.screencapture@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.terrain)
+    com.unity.modules.terrainphysics@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.terrainphysics)
+    com.unity.modules.tetgen@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.tetgen)
+    com.unity.modules.tilemap@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.tilemap)
+    com.unity.modules.timelinefoundation@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.timelinefoundation)
+    com.unity.modules.ui@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.umbra)
+    com.unity.modules.unityanalytics@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.unityanalytics)
+    com.unity.modules.unitywebrequest@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequestaudio@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.unitywebrequestaudio)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.unitywebrequestwww@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.unitywebrequestwww)
+    com.unity.modules.vectorgraphics@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.vectorgraphics)
+    com.unity.modules.vehicles@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.vehicles)
+    com.unity.modules.video@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.video)
+    com.unity.modules.wind@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.wind)
+    com.unity.modules.xr@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.modules.hierarchycore)
+    com.unity.ext.nunit@2.1.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.ext.nunit@0198eae3b53e)
+    com.unity.render-pipelines.core@17.6.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.render-pipelines.core@2d66c71e606e)
+    com.unity.shadergraph@17.6.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.shadergraph@ef6135652377)
+    com.unity.render-pipelines.universal-config@17.6.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.render-pipelines.universal-config@561422b74439)
+    com.unity.editorcoroutines@6.6.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.editorcoroutines@8cd72baa102a)
+    com.unity.mathematics@1.4.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.mathematics@8306a64d0cd6)
+    com.unity.collections@6.6.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.collections@10fff0607388)
+    com.unity.graph-authoring@1.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.graph-authoring@cfd2588851ee)
+    com.unity.burst@2.0.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.burst@626e66ab421b)
+    com.unity.test-framework.performance@6.6.0 (location: /Users/robinlenson/Galactic Rogue/Library/PackageCache/com.unity.test-framework.performance@0a60b857a52e)
+[Subsystems] No new subsystems found in resolved package list.
+[Package Manager] Done registering packages in 0.01 seconds
+[ScriptCompilation] Requested script compilation because: AssetDatabase observed changes in script compilation related files
+Starting: /Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/BuildPipeline/bee_backend --ipc --defer-dag-verification --dagfile="Library/Bee/200b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: /Users/robinlenson/Galactic Rogue
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.runtime.interopservices.windowsruntime has duplicate hint path. Ignoring "/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/Scripting/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.WindowsRuntime.dll" in favor of "/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/Scripting/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.componentmodel.composition has duplicate hint path. Ignoring "/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/Scripting/UnityReferenceAssemblies/unity-4.8-api/System.ComponentModel.Composition.dll" in favor of "/Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Resources/Scripting/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
+ExitCode: 0 Duration: 1s81ms
+[ 886/1188  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[1184/1188  0s] Csc Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll (+2 others)
+Assets/Scripts/Run/RunHud.cs(109,25): warning CS0219: The variable 'maxHeight' is assigned but its value is never used
+Assets/Scripts/Combat/DamageNumber.cs(11,23): warning CS0414: The field 'DamageNumber.fadeSpeed' is assigned but its value is never used
+Assets/Scripts/Enemies/EnemySpawner.cs(12,52): warning CS0414: The field 'EnemySpawner.baseSpawnInterval' is assigned but its value is never used
+[1185/1188  0s] ILPostProcess Library/Bee/artifacts/200b0aE.dag/post-processed/Assembly-CSharp.dll (+pdb)
+Processing assembly Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll, with 143 defines and 380 references
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+1 processor(s) skipped this assembly
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[1186/1188  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll
+[1187/1188  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb
+*** Tundra build success (1.06 seconds), 5 items updated, 1188 evaluated
+Assets/Scripts/Run/RunHud.cs(109,25): warning CS0219: The variable 'maxHeight' is assigned but its value is never used
+Assets/Scripts/Combat/DamageNumber.cs(11,23): warning CS0414: The field 'DamageNumber.fadeSpeed' is assigned but its value is never used
+Assets/Scripts/Enemies/EnemySpawner.cs(12,52): warning CS0414: The field 'EnemySpawner.baseSpawnInterval' is assigned but its value is never used
+AssetDatabase: script compilation time: 1.818903s
+Total cache size 127919076
+Total cache size after purge 127919076, took 00:00:00.2767554
+Begin MonoManager ReloadAssembly
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 6.46 ms, found 3 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.923 seconds
+Domain Reload Profiling: 1811ms
+	BeginReloadAssembly (223ms)
+		DisableScriptedObjects (22ms)
+		CreateAndSetChildDomain (62ms)
+	RebuildCommonClasses (7ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (602ms)
+		LoadAssemblies (312ms)
+		TypeCache.Refresh (190ms)
+			TypeCache.ScanAssembly (173ms)
+		AnalyzeDomain (63ms)
+			BuildScriptInfoCaches (55ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (925ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (94ms)
+			ProcessInitializeOnLoadAttributes (309ms)
+			ProcessInitializeOnLoadMethodAttributes (267ms)
+			EditorAssembliesLoaded (6ms)
+		AwakeInstancesAfterBackupRestoration (22ms)
+Starting new worker id: 0 with log in /Users/robinlenson/Galactic Rogue/Logs/AssetImportWorkerHW0.log
+Launching external process: /Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Helpers/UnityShaderCompiler
+
+Asset Pipeline Refresh (id=70515240282264467a832e4ecb86cbdf): Total: 5.443 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=2181 ms
+		Asset DB Callback time: managed=345 ms, native=22 ms
+		Scripting: domain reloads=1, domain reload time=1019 ms, compile time=1820 ms, other=53 ms
+		Project Asset Count: scripts=1726, non-scripts=3369
+		Asset File Changes: new=0, changed=6, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokePackagesCallback: 12.379ms
+	ApplyChangesToAssetFolders: 0.389ms
+	Scan: 782.210ms
+	Collect global state as custom dependencies: 19.197ms
+	OnSourceAssetsModified: 1.270ms
+	CategorizeScriptCompilationAssets: 71.476ms
+	ProcessAssetsWithTransientArtifactChanges: 71.985ms
+	CategorizeAssets: 100.361ms
+	CompileScripts: 1820.364ms
+	ImportOutOfDateAssets: 947.780ms (943.465ms without children)
+		ReloadNativeAssets: 0.257ms
+		UnloadImportedAssets: 1.515ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.779ms
+		ImportSchedulerStart: 1.763ms
+	PostProcessAllAssets: 349.808ms
+		VCAutoAddAssetPostprocess 2.411ms
+		ShaderAssetModifiedCallback 0.344ms
+		PostProcessCallbackCreateDeferredMaterials 0.287ms
+		XRBuildSystem.XRAssetImported 0.168ms
+		MonoPostProcessAllAssets: 344.863ms
+			AssetPostprocessor.OnPostprocessAllAssets 265.470ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 15.869ms
+			StyleCatalogPostProcessor.OnPostprocessAllAssets 15.332ms
+			SyncVS.PostprocessSyncProject 8.018ms
+			BuilderAssetPostprocessor.OnPostprocessAllAssets 5.169ms
+			AssetChangedListener.OnPostprocessAllAssets 4.449ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 2.554ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 1.966ms
+			SpriteSlicePostprocessor.OnPostprocessAllAssets 1.739ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 1.399ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 1.336ms
+			MaterialPostprocessor.OnPostprocessAllAssets 1.245ms
+			RetainedModeAssetPostprocessor.OnPostprocessAllAssets 1.188ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.795ms
+			PostProcessor.OnPostprocessAllAssets 0.645ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.588ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.579ms
+			TMPro_TexturePostProcessor.OnPostprocessAllAssets 0.440ms
+			SpriteEditorTexturePostprocessor.OnPostprocessAllAssets 0.436ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 0.434ms
+			SpriteShapeAssetPostProcessor.OnPostprocessAllAssets 0.421ms
+			ArtifactBrowserPostProcessor.OnPostprocessAllAssets 0.412ms
+			UVCSAssetPostprocessor.OnPostprocessAllAssets 0.372ms
+			InputActionJsonNameModifierAssetProcessor.OnPostprocessAllAssets 0.321ms
+			TextAssetPostProcessor.OnPostprocessAllAssets 0.303ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.249ms
+			AudioMixerPostprocessor.OnPostprocessAllAssets 0.244ms
+			AssetEvents.OnPostprocessAllAssets 0.203ms
+			AssetProcessor.OnPostprocessAllAssets 0.190ms
+			SpriteLibraryAssetPostprocessor.OnPostprocessAllAssets 0.155ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.146ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.133ms
+			SamplePostprocessor.OnPostprocessAllAssets 0.120ms
+			SpeedTreePostProcessor.OnPostprocessAllAssets 0.119ms
+			AssetReloadNotifier.OnPostprocessAllAssets 0.104ms
+			ThemePostprocessor.OnPostprocessAllAssets 0.103ms
+			PSDImportPostProcessor.OnPostprocessAllAssets 0.101ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 0.097ms
+			ScenarioDriftAssetsTracker.OnPostprocessAllAssets 0.087ms
+			AudioContainerPostProcessor.OnPostprocessAllAssets 0.059ms
+			PSDImporterAssetPostProcessor.OnPostprocessAllAssets 0.059ms
+	PostAssetChangesProfiler: 8.828ms
+	UnloadStreamsBegin: 3.937ms
+	PersistCurrentRevisions: 0.137ms
+	GenerateScriptTypeHashes: 2.180ms
+	GenerateScriptTypeSerializationHashes: 3.800ms
+	Untracked: 1250.181ms
+
+Application.AssetDatabase Initial Refresh End
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Launched and connected shader compiler UnityShaderCompiler after 0.06 seconds
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Scanning for USB devices : 0.036ms
+Initializing Unity extensions:
+2026-09-27 05:31:01.844 Unity[70115:15248063] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc683f05f0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Galactic Rogue
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/SampleScene.unity'
+	Deserialize:            11.007 ms
+	Integration:            18.485 ms
+	Integration of assets:  0.011 ms
+	Thread Wait Time:       -0.000 ms
+	Total Operation Time:   29.503 ms
+Unloading 7594 unused Assets / (4.3 MB). Loaded Objects now: 8614.
+Memory consumption went from 282.3 MB to 278.0 MB.
+Total: 11.669459 ms (FindLiveObjects: 0.751083 ms CreateObjectMapping: 0.231083 ms MarkObjects: 8.167250 ms  DeleteObjects: 2.383167 ms)
+
+[LAYOUT] About to load UserSettings/Layouts/default-6000.dwlt, keepMainWindow=False
+2026-09-27 05:31:01.943 Unity[70115:15248063] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-09-27 05:31:01.945 Unity[70115:15248063] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-09-27 05:31:01.945 Unity[70115:15248063] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-09-27 05:31:01.945 Unity[70115:15248063] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-09-27 05:31:01.945 Unity[70115:15248063] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-09-27 05:31:02.657 Unity[70115:15248063] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-09-27 05:31:02.658 Unity[70115:15248063] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-09-27 05:31:02.659 Unity[70115:15248063] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-09-27 05:31:02.659 Unity[70115:15248063] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-09-27 05:31:02.659 Unity[70115:15248063] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+[LAYOUT] About to save layout /Users/robinlenson/Galactic Rogue/UserSettings/Layouts/default-6000.dwlt
+[LAYOUT] About to save layout /Users/robinlenson/Library/Preferences/Unity/Editor-5.x/Layouts/current/default-6000.dwlt
+[MODES] ModeService[default].InitializeCurrentMode
+[MODES] ModeService[default].RaiseModeChanged(default, default)
+2026-09-27 05:31:02.888 Unity[70115:15248063] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc6da9e200 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+[Project] Loading completed in 10.925 seconds
+	Project init time: 				9.164 seconds
+		Template init time: 		0.000 seconds
+		Package Manager init time: 		0.177 seconds
+		Asset Database init time: 		0.540 seconds
+		Global illumination init time: 	0.003 seconds
+		Assemblies load time: 			1.545 seconds
+		Unity extensions init time: 	0.035 seconds
+		Asset Database refresh time: 	5.447 seconds
+	Scene opening time: 			1.167 seconds
+##utp:{"type":"ProjectInfo","version":2,"phase":"Immediate","time":1790479863026,"processId":70115,"projectLoad":10.924961709,"projectInit":9.163846542,"templateInit":0.0,"packageManagerInit":0.17704525,"assetDatabaseInit":0.539504125,"globalIlluminationInit":0.002667292,"assembliesLoad":1.544736125,"unityExtensionsInit":0.03503925,"assetDatabaseRefresh":5.4474805,"sceneOpening":1.167002625}
+##utp:{"type":"EditorInfo","version":2,"phase":"Immediate","time":1790479863026,"processId":70115,"editorVersion":"6000.6.0f1 (f7f8ed4d1e24)","branch":"6000.6/respin/6000.6.0f1-fa21a270ab12","buildType":"Release","platform":"OSX"}
+Subscribe to USB device events
+Start Indexing on Editor startup
+[Indexing] Starting Initial Indexing for Assets
+Reloading assemblies due to reload request.
+Reloading assemblies after forced synchronous recompile.
+Begin MonoManager ReloadAssembly
+Thread 0xc6ef07000 may have been prematurely finalized
+<CFData 0xca877ecc0 [0x1f6387f00]>{length = 6, capacity = 6, bytes = 0x80657cd27359}
+Worker ready: AssetImportWorkerHW0 0
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+2026-09-27 05:31:05.784 Unity[70115:15248063] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc6b7c0340 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  1.360 seconds
+Domain Reload Profiling: 2065ms
+	BeginReloadAssembly (434ms)
+		DisableScriptedObjects (67ms)
+		CreateAndSetChildDomain (234ms)
+	RebuildCommonClasses (7ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (214ms)
+		LoadAssemblies (102ms)
+		TypeCache.Refresh (9ms)
+		AnalyzeDomain (22ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (1360ms)
+		SetupLoadedEditorAssemblies (0ms)
+			LogAssemblyErrors (3ms)
+			BeforeProcessingInitializeOnLoad (238ms)
+			ProcessInitializeOnLoadAttributes (320ms)
+			ProcessInitializeOnLoadMethodAttributes (60ms)
+		AwakeInstancesAfterBackupRestoration (406ms)
+No restricted APIs configured; Validation skipped.
+Checking 18 assemblies for restricted APIs found 0 usage(s) in 2 ms
+
+Asset Pipeline Refresh (id=6b31580290fa54df6b21403a73fa34f1): Total: 3.420 seconds - Initiated by StopAssetImportingV2(ForceSynchronousImport | ForceDomainReload)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1699 ms
+		Asset DB Callback time: managed=782 ms, native=152 ms
+		Scripting: domain reloads=1, domain reload time=783 ms, compile time=2 ms, other=0 ms
+		Project Asset Count: scripts=1726, non-scripts=3369
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 1.224ms
+	ApplyChangesToAssetFolders: 0.321ms
+	Collect global state as custom dependencies: 3.063ms
+	ProcessAssetsWithTransientArtifactChanges: 178.160ms
+	CategorizeAssets: 82.657ms
+	CompileScripts: 1.785ms
+	ImportOutOfDateAssets: 1368.111ms (1364.944ms without children)
+		CollectScriptTypesHashes: 1.529ms
+		ReloadNativeAssets: 0.767ms
+		UnloadImportedAssets: 1.360ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.661ms
+		ImportSchedulerStart: 0.346ms
+	PostProcessAllAssets: 924.311ms
+		AssemblyValidation.PostprocessAllAssets 21.488ms
+		SpriteAtlasDatabase.OnAssetPostprocessCallback 15.437ms
+		PostProcessCallbackCreateDeferredMaterials 13.533ms
+		ShaderAssetModifiedCallback 9.596ms
+		ComputeShaderImportPostprocess 8.248ms
+		RaytracingShaderImportPostprocess 7.931ms
+		SpeedTreeImporter.PostprocessAllAssets 6.211ms
+		BlockShaderImporter.PostprocessAllAssets 3.681ms
+		LocalizationDatabase.AssetDatabasePostprocessCallback 3.638ms
+		XRBuildSystem.XRAssetImported 0.133ms
+		MonoPostProcessAllAssets: 780.476ms
+			SyncVS.PostprocessSyncProject 273.771ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 176.663ms
+			PostProcessor.OnPostprocessAllAssets 45.958ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 33.109ms
+			InputActionJsonNameModifierAssetProcessor.OnPostprocessAllAssets 32.704ms
+			MaterialPostprocessor.OnPostprocessAllAssets 32.540ms
+			AssetPostprocessor.OnPostprocessAllAssets 30.577ms
+			AssetChangedListener.OnPostprocessAllAssets 27.803ms
+			TextAssetPostProcessor.OnPostprocessAllAssets 22.703ms
+			SpriteSlicePostprocessor.OnPostprocessAllAssets 19.728ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 10.063ms
+			BuilderAssetPostprocessor.OnPostprocessAllAssets 5.004ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 3.925ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 3.388ms
+			RetainedModeAssetPostprocessor.OnPostprocessAllAssets 1.502ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 1.062ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 1.011ms
+			SpriteShapeAssetPostProcessor.OnPostprocessAllAssets 0.991ms
+			SpriteEditorTexturePostprocessor.OnPostprocessAllAssets 0.718ms
+			ThemePostprocessor.OnPostprocessAllAssets 0.660ms
+			TMPro_TexturePostProcessor.OnPostprocessAllAssets 0.651ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 0.552ms
+			StyleCatalogPostProcessor.OnPostprocessAllAssets 0.420ms
+			SpeedTreePostProcessor.OnPostprocessAllAssets 0.385ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 0.343ms
+			ArtifactBrowserPostProcessor.OnPostprocessAllAssets 0.339ms
+			UVCSAssetPostprocessor.OnPostprocessAllAssets 0.224ms
+			SpriteLibraryAssetPostprocessor.OnPostprocessAllAssets 0.214ms
+			AudioMixerPostprocessor.OnPostprocessAllAssets 0.200ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.176ms
+			AssetEvents.OnPostprocessAllAssets 0.127ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.117ms
+			SamplePostprocessor.OnPostprocessAllAssets 0.113ms
+			PSDImportPostProcessor.OnPostprocessAllAssets 0.111ms
+			AssetReloadNotifier.OnPostprocessAllAssets 0.078ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.077ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 0.073ms
+			ScenarioDriftAssetsTracker.OnPostprocessAllAssets 0.063ms
+			PSDImporterAssetPostProcessor.OnPostprocessAllAssets 0.061ms
+	PostAssetChangesProfiler: 10.447ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.625ms
+	UnloadStreamsBegin: 4.878ms
+	PersistCurrentRevisions: 0.135ms
+	GenerateScriptTypeHashes: 2.861ms
+	GenerateScriptTypeSerializationHashes: 4.862ms
+	Untracked: 839.656ms
+
+Created GICache directory at /Users/robinlenson/Library/Caches/com.unity3d.UnityEditor/GiCache. Took: 0.010s, timestamps: [10.934 - 10.944]
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "uT0LLquO"... (expires: 2026-09-27T05:24:26Z)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+UPID Received '4e8e4646-3328-404a-92c5-3765a566d472'.
+[Licensing::Client] Successfully resolved entitlement details
+2026-09-27 05:31:17.796 Unity[70115:15248063] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2026-09-27 05:31:17.804 Unity[70115:15248063] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+SpriteAtlasPacking completed in 0.012233 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            0.780 ms
+	Integration:            327.491 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   328.278 ms
+Launching external process: /Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Helpers/UnityShaderCompiler
+Launching external process: /Applications/Unity/Hub/Editor/6000.6.0f1/Unity.app/Contents/Helpers/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+TrimDiskCacheJob: Current cache size 0mb
+Thread 0xc4d347000 may have been prematurely finalized
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            5.168 ms
+	Integration:            21.760 ms
+	Integration of assets:  0.013 ms
+	Thread Wait Time:       0.000 ms
+	Total Operation Time:   26.941 ms
+Unloading 6841 unused Assets / (1.1 MB). Loaded Objects now: 9534.
+Memory consumption went from 330.0 MB to 328.9 MB.
+Total: 34.848625 ms (FindLiveObjects: 0.839083 ms CreateObjectMapping: 0.399750 ms MarkObjects: 31.529917 ms  DeleteObjects: 1.784500 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+MonoPathRemapper: Attempts to remap: 52620; Successful remaps: 30526
+Thread 0xc6e6fb000 may have been prematurely finalized
+Thread 0xc4d467000 may have been prematurely finalized
+Serialized file version minimum: 22, current 23
+[LAYOUT] About to save layout /Users/robinlenson/Galactic Rogue/UserSettings/Layouts/default-6000.dwlt
+[LAYOUT] About to save layout /Users/robinlenson/Library/Preferences/Unity/Editor-5.x/Layouts/current/default-6000.dwlt
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: 'ad6ca2034549a8dd6f88c2e2fb528c97') in 0.007 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=1aedbe56ae62f321fe459982db2fa012 StaticDependenciesID=e9a43e809c5953780a851aff477bfce8 
+Asset Pipeline Refresh (id=704e20f4933ae4b7f93763b3e675e4e6): Total: 0.052 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Thread 0xc4ce53000 may have been prematurely finalized
+Input System module state changed to: ShutdownInProgress.
+Input Polling Thread exited.
+Input System module state changed to: Shutdown.
+"MSBuild-Server" wird heruntergefahren...
+"VB/C#-Compilerserver" wird heruntergefahren...
+"VB/C#-Compilerserver" wurde erfolgreich heruntergefahren.
+Thread 0x175433000 may have been prematurely finalized
+Thread 0x175203000 may have been prematurely finalized
+Thread 0x17531b000 may have been prematurely finalized
+Thread 0x17528f000 may have been prematurely finalized
+Thread 0x1753a7000 may have been prematurely finalized
+Thread 0x17554b000 may have been prematurely finalized
+Thread 0x1754bf000 may have been prematurely finalized
+"MSBuild-Server" wurde erfolgreich heruntergefahren.
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+[Licensing::IpcConnector] LicenseClient-robinlenson-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-robinlenson channel disconnected successfully.
+Shut down UDS service system complete
+Lingering sessions upon destruction of worker manager
+Unity Data Store service was successfully shut down
+UDS shutting down local client system
+AcceleratorClientConnectionCallback - disconnected - :0
+Cleanup mono
+CodeReloadManager destroyed
+debugger-agent: Unable to listen on 84
+Checking for leaked weakptr:
+  Found no leaked weakptrs.
+[Package Manager] Server process was shutdown
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1790480283638,"processId":70115,"allocatedMemory":12232071,"memoryLabels":[{"Default":224319},{"Permanent":15672},{"Thread":1053952},{"Manager":812222},{"VertexData":8},{"Geometry":408},{"Texture":24},{"Shader":855705},{"Material":24},{"GfxDevice":42304},{"GfxThread":1920},{"Animation":968},{"Audio":960},{"FreeType":8},{"FontEngine":736},{"Physics":2002},{"Physics2D":16},{"Serialization":16944},{"Input":43216},{"JobScheduler":448},{"TextLib":14763},{"Mono":56},{"MonoCode":360},{"ScriptingNativeRuntime":155024},{"BaseObject":52456},{"Resource":984},{"Renderer":2448},{"Transform":4693},{"File":7577},{"WebCam":32},{"Culling":32},{"Terrain":11346},{"Wind":24},{"String":591394},{"StaticString":3808},{"Utility":2691200},{"PoolAlloc":2152},{"AI":80},{"TypeTree":17293},{"ScriptManager":18960},{"CodeReload":448},{"RuntimeInitializeOnLoadManager":64},{"Sprites":102},{"SpriteAtlas":120},{"GI":7240},{"Director":8288},{"CloudService":7296},{"WebRequest":13317},{"VR":49426},{"SceneManager":616},{"Video":2112},{"LazyScriptCache":32},{"NativeArray":1872},{"Camera":1177},{"Secure":10105},{"SerializationCache":9704},{"APIUpdating":10320},{"Subsystems":336},{"VirtualTexturing":57504},{"StaticSafetyDebugInfo":278528},{"Baselib":16},{"Analytics":568},{"Hierarchy":1492},{"UIElements":40},{"CoreStats":14536},{"Identifiers":7152},{"Gui":13073},{"EditorUtility":86531},{"VersionControl":8},{"Undo":939},{"AssetDatabase":4940826},{"AssetImporter":40},{"EditorGi":328},{"UnityConnect":36969},{"Upm":1788},{"UpmDiagnostics":8},{"AssetCompliance":96},{"DrivenProperties":72},{"HubClient":848},{"LocalIPC":210},{"ProfilerEditor":9738},{"CoreBusinessMetrics":3205},{"Windowing":416},{"Licensing":992},{"AssetReference":32},{"IPCStream":7003}]}
